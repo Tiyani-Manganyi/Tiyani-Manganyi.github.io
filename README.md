@@ -3,10 +3,6 @@
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/Tiyani-Manganyi/Tiyani-Manganyi.github.io?)
-  ![GitHub stars](https://img.shields.io/github/stars/Tiyani-Manganyi/Tiyani-Manganyi.github.io?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/Tiyani-Manganyi/Tiyani-Manganyi.github.io?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Tiyani-Manganyi_?style=social)](https://twitter.com/intent/follow?screen_name=Tiyani-Manganyi_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/SAu7e09vXoQ?style=social)](https://youtu.be/SAu7e09vXoQ)
 
   <br />
   <br />
