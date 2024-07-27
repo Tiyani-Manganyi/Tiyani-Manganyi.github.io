@@ -1,6 +1,6 @@
  <h2 align="center">Tiyani Manganyi Portfolio Website</h2>
 
-
+<a href="index.html">Web</a>
 Number of  Visitors
 
 <img align="right"   width="200" height="50" src="https://visitor-badge.laobi.icu/badge?page_id=Tiyani-Manganyi.Tiyani-Manganyi" />
