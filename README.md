@@ -2,12 +2,11 @@
 
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/Tiyani-Manganyi/Tiyani-Manganyi.github.io?)
+
 
   <br />
   <br />
 
-  <a href="https://Tiyani-Manganyi.github.io/Tiyani-Manganyi.github.io/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
