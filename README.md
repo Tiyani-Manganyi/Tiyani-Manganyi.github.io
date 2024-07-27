@@ -1,54 +1,38 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/Tiyani-Manganyi/portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/Tiyani-Manganyi/portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/Tiyani-Manganyi/portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Tiyani-Manganyi_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/SAu7e09vXoQ?style=social)](https://youtu.be/SAu7e09vXoQ)
+# MANGANYI TIYANI
+  ![GitHub repo size](https://img.shields.io/github/repo-size/Tiyani-Manganyi/Tiyani-Manganyi.github.io?)
 
-  <br />
-  <br />
+## EDUCATIONAL QUALIFICATIONS 
 
-  <h2 align="center">Personal Portfolio Website</h2>
+- **Highest Grade Passed:** Grade 12
+- **Subjects Passed:** English, Xitsonga, Life Orientation, Mathematics, Physical Sciences, Accounting, Life Sciences
+- **Year:** 2019
 
-  Fully responsive personal portfolio website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+## TERTIARY LEVEL
 
-  <a href="https://Tiyani-Manganyigithub.io/Tiyani-Manganyi.github.io/"><strong>➥ Live Demo</strong></a>
+- **Current Course:** Dip Computer Science (Extended)
+- **Undergraduate**
+- **With Effect from:** 2021
+- **Institution:** Tshwane University of Technology
 
-</div>
+## CAPABILITIES
 
-<br />
+- Willing to learn
+- Good Communication
+- Self-Motivated
+- Energetic
+- Team Worker
 
-### Demo Screeshots
+## GitHub
 
-![Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+- **GitHub Username:** [Tiyani-Manganyi](https://github.com/Tiyani-Manganyi)
 
-### Prerequisites
+## GitHub Statistics
 
-Before you begin, ensure you have met the following requirements:
+![Tiyani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiyani-Manganyi&show_icons=true&theme=radical)
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiyani-Manganyi&layout=compact&theme=radical)
 
-### Run Locally
 
-To run **Portfolio** locally, run this command on your git bash:
+### Languages and Tools
 
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/portfolio.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/Tiyani-Manganyi).
-
-### License
-
-This project is **free to use** and does not contains any license.
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dynamics365.svg" width="32" style="background-color:white;" > <img src="https://camo.githubusercontent.com/6df31a460cb0c38f960e92812c8b6f8bce4c7f13170fb4782f0b31ab8e792ac2/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6963726f736f66745f617a7572652f6d6963726f736f66745f617a7572652d69636f6e2e737667" width="32"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="32"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="32"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="32"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="32"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" width="32"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="32"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32"> <img src="https://camo.githubusercontent.com/42dfd0950d93092d82d677877fe87d5bab1e2acccc1110bf0f9dd755988ccb7e/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667" width="32">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="32"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="32"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="32"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="32"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="32"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" width="32"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="32">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32" style="background-color:white;">
